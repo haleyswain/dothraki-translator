@@ -1,0 +1,30 @@
+$blue : #607a9e;
+
+body {
+  background-image:url('https://s-media-cache-ak0.pinimg.com/originals/25/3a/c1/253ac1830b8d6e4c15df43b61828f38b.jpg');
+  background-repeat: no-repeat;
+  max-height: 100%;
+  background-size: cover;
+  text-align: center;
+}
+ h2, p {
+   color: $blue;
+ }
+
+ .box {
+   background-color: #EEF0DA;
+   margin: 14%;
+   padding: 10%;
+ }
+
+ .showTranslation {
+   font-size: 20px;
+   padding: 5%;
+ }
+
+ .button {
+   padding: 5%;
+   background-color: $blue;
+   color: white;
+   font-size: 20px;
+ }
